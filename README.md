@@ -5,7 +5,7 @@ projet Java
 Jeu d'échecs avec JavaFX. 
 
 Une fois le programme lancé, on peut lancer le jeu appuyant sur Jouer ou alors changer le noir pour une autre couleur en appuyant 
-sur le bouton en dessous. Un aperçu de la couleur est affichée sur le menu même.
+sur le bouton en dessous. Un aperçu de la couleur est affiché sur le menu même.
 
 Une fois le jeu lancé, le joueur blanc (en bas) commence.
 
